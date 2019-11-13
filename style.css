@@ -1,0 +1,16 @@
+div{
+
+    background-image: linear-gradient(to right bottom,yellow, rgb(10,10,200) )
+}
+
+.test {
+
+    background-image: url(fall.jpg);
+
+    background-color: black;
+
+}
+div.a {
+    text-transform: uppercase;
+  }
+  

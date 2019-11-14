@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 h1 {
     text-transform: uppercase;
@@ -24,9 +25,33 @@ div {
 ul[target]{
 text-align: center;
 font-size: larger;
-
+=======
+h1 {
+    text-transform: uppercase;
+    text-align: center;
 }
 
+div { 
+     /* background-image: url(winter.jpg);  */
+     /* background-position: center; */
+    /* opacity: .5;  */
+    /* background-repeat: no-repeat;  */
+     background-image: linear-gradient(to bottom right, aqua, rgb(177, 69, 87)); 
+      height:100vh ;  
+}
+
+
+ul[target]{
+text-align: center;
+}
+>>>>>>> 8d10ff49981952bd5e98bcfcf25563e65e9b5644
+
+img{
+    -webkit-filter:grayscale (100%) ; /*grayscale (100%)blur(5px)*/
+     filter: grayscale (100%);/* grayscale (100%)  */
+}
+
+<<<<<<< HEAD
 img{
     
     /* -webkit-filter:grayscale (100%) ; grayscale (100%)blur(5px) */
@@ -35,3 +60,5 @@ img{
 height: 100;
 
 }
+=======
+>>>>>>> 8d10ff49981952bd5e98bcfcf25563e65e9b5644

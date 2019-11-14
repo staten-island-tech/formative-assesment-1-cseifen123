@@ -1,16 +1,24 @@
-div{
-
-    background-image: linear-gradient(to right bottom,yellow, rgb(10,10,200) )
-}
-
-.test {
-
-    background-image: url(fall.jpg);
-
-    background-color: black;
-
-}
-div.a {
+h1 {
     text-transform: uppercase;
-  }
-  
+    text-align: center;
+}
+
+div { 
+     /* background-image: url(winter.jpg);  */
+     /* background-position: center; */
+    /* opacity: .5;  */
+    /* background-repeat: no-repeat;  */
+     background-image: linear-gradient(to bottom right, aqua, rgb(177, 69, 87)); 
+      height:100vh ;  
+}
+
+
+ul[target]{
+text-align: center;
+}
+
+img{
+    -webkit-filter:grayscale (100%) ; /*grayscale (100%)blur(5px)*/
+     filter: grayscale (100%);/* grayscale (100%)  */
+}
+
